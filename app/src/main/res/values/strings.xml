@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MidtronicsProject</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="education_text">
+        "Loyola University.\n\n"
+        "Masters: Information Technology\n\n"
+        "Indus University.\n\n"
+        "Bachelors: Computer Engineering\n\n"
+
+    </string>
+    <string name="work_text">
+        "SoftVan\n\n"
+        "Ahmedabad, India\n\n"
+"Full Stack Developer Intern\n\n"
+"• Member of development team, deployment and maintenance for Voice Banking\n\n"
+"• Developed using Amazon Web Services for back-end; Alexa Eco dot as front-end.\n\n"
+"• Functionalities implemented login to account, create new bank account, manage balance using voice commands\n\n"
+"• Learnings: Understanding the importance of Implementation of voice commands in the banking sector, having a professional degree of safety. Plus, how emerging the field of voice over commands is.\n\n"
+        "\n\n"
+        "SoftVan\n\n"
+        "Ahmedabad, India\n\n"
+        "Intern\n\n"
+"• Member of development team, deployment and maintenance for retail portal\n\n"
+"• Developed using hibernate framework. Utilized Java J2EE for back-end; HTML5, CSS3, bootstrap for front-end and MySQL for database.\n\n"
+"• Features implemented User management, Product management, Complain management, Payment management.\n\n"
+"• Learnings: Tried to achieve maximum efficient usage of the retail portal by adding functionalities [i.e. user management, payment management, etc.]\n\n"
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>
